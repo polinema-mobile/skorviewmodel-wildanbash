@@ -6,6 +6,9 @@
 	>
 	<data>
 		<variable
+			name="fragment"
+			type="id.ac.polinema.skorviewmodel.fragments.ScoreFragment" />
+		<variable
 			name="vm"
 			type="id.ac.polinema.skorviewmodel.viewmodels.ScoreViewModel" />
 	</data>
